@@ -1,6 +1,6 @@
 # Welcome to HellScape bot
 
-
+The selfbot is currenclty down
 
 Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
 
@@ -13,7 +13,7 @@ Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive t
 
 - Windows - [Python 3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 - Mac - [Python 3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-macosx10.9.pkg)
-- [The SelfBot](https://www.mediafire.com/file/eyxxvq9q3o1cbrg/HellScape.rar/file)
+
 
 ### Support or Contact
 
