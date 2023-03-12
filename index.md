@@ -7,7 +7,7 @@ Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive t
 
 ### Requires 
 - Python 3.9
-- Make sure you have PIP ([how to enable pip](
+- Make sure you have PIP ([how to enable pip](https://www.youtube.com/watch?v=YKSpANU8jPE)
 
 ### Download
 
