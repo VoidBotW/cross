@@ -18,3 +18,38 @@ Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the l
 ### Support or Contact
 
 Having trouble with cross? Contact frud#3081 on discord or join the [discord](https://discord.gg/4eHTExkye4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#FEATURES
+
+###Nuker
+- Fast account nuke
+- Fast server nuker
+
+###Token
+- Mass dm
+- Block/unfriend all friends
+- Group chat spammer
+- Dm deleter
+- Light/dark mode spammer
+- Login via token 
+- Delete/leave servers 
++ More
+
+###Other 
+- Qr code grabber
+- Token grabber 
+- Webhook spammmer/destroyer/protection
+- Get info from token
+- Mass report 
