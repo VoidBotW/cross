@@ -5,7 +5,7 @@ Cross is currently in early access
 Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
 
 
-### Requires 
+### Requirements
 - Python 3.9
 - Make sure you have PIP ([how to enable pip](https://www.youtube.com/watch?v=YKSpANU8jPE)
 
@@ -19,37 +19,4 @@ Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the l
 
 Having trouble with cross? Contact frud#3081 on discord or join the [discord](https://discord.gg/4eHTExkye4) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# FEATURES
-
-### Nuker
-- Fast account nuke
-- Fast server nuker
-
-### Token
-- Mass dm
-- Block/unfriend all friends
-- Group chat spammer
-- Dm deleter
-- Light/dark mode spammer
-- Login via token 
-- Delete/leave servers 
-+ More
-
-### Other 
-- Qr code grabber
-- Token grabber 
-- Webhook spammmer/destroyer/protection
-- Get info from token
-- Mass report 
+## [Features](https://voidbotw.github.io/Lisky/)
