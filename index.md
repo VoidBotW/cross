@@ -2,7 +2,7 @@
 
 Cross is currenclty in early access 
 
-Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
+Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
 
 
 ### Requires 
