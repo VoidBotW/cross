@@ -1,13 +1,13 @@
-# Welcome to HellScape bot
+# Welcome to cross
 
-The selfbot is currenclty down
+Cross is currenclty in early access 
 
 Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
 
 
 ### Requires 
 - Python 3.9
-- Make sure you have PIP
+- Make sure you have PIP ([how to enable pip](
 
 ### Download
 
@@ -17,4 +17,4 @@ Join the offical hellscape [discord](https://discord.gg/4eHTExkye4) to receive t
 
 ### Support or Contact
 
-Having trouble with the selfbot? Contact 1aldrch#1111 on discord or join the [discord](https://discord.gg/4eHTExkye4) and open a ticket in #support and state your problems 
+Having trouble with cross? Contact frud#3081 on discord or join the [discord](https://discord.gg/4eHTExkye4) 
