@@ -1,6 +1,6 @@
 # Welcome to cross
 
-Cross is currenclty in early access 
+Cross is currently in early access 
 
 Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the latest updates.
 
