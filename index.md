@@ -31,13 +31,13 @@ Having trouble with cross? Contact frud#3081 on discord or join the [discord](ht
 
 
 
-#FEATURES
+# FEATURES
 
-###Nuker
+### Nuker
 - Fast account nuke
 - Fast server nuker
 
-###Token
+### Token
 - Mass dm
 - Block/unfriend all friends
 - Group chat spammer
@@ -47,7 +47,7 @@ Having trouble with cross? Contact frud#3081 on discord or join the [discord](ht
 - Delete/leave servers 
 + More
 
-###Other 
+### Other 
 - Qr code grabber
 - Token grabber 
 - Webhook spammmer/destroyer/protection
