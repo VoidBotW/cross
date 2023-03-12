@@ -19,4 +19,4 @@ Join the offical cross [discord](https://discord.gg/4eHTExkye4) to receive the l
 
 Having trouble with cross? Contact frud#3081 on discord or join the [discord](https://discord.gg/4eHTExkye4) 
 
-## [Features]([https://voidbotw.github.io/Lisky/](https://voidbotw.github.io/Features/))
+## [Features]([https://voidbotw.github.io/Lisky/](https://voidbotw.github.io/Features/) )
